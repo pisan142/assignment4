@@ -6,6 +6,7 @@
  * @version (a version number or a date)
  */
 public class TextAnalysis {
+
   // provided as an example, should not need it
   public static void printAlphabet() {
     for (char curr = 'a'; curr <= 'z'; curr++) {
