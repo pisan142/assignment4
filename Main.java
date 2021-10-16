@@ -3,10 +3,10 @@
  */
 public class Main {
 
-    /**
-     * Call textAnalysis.
-     */
-    public static void main(String[] args) {
-        TextAnalysis.textAnalysis();
-    }
+  /**
+   * Call textAnalysis.
+   */
+  public static void main(String[] args) {
+    TextAnalysis.textAnalysis();
+  }
 }
