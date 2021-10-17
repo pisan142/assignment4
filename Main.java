@@ -44,6 +44,7 @@ public class Main {
    * This methods get inputs from user and calls analyzeLine().
    * It keeps asking for inputs until user enter "stop"
    * When user enters "stop", the method will end with "All done!"
+   * NOTE: this method is required for testing, you must not delete it
    */
   public static void textAnalysis() {
     //TODO
