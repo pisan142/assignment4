@@ -17,7 +17,7 @@ public class Main {
   }
   
   /**
-   * This method should return the number of times c appears in the message.
+   * This method calculates the number of times c appears in the message.
    * For example, if message = "abcbcbc", and c = 'b', then the method should return 3
    * If no c character appears in the message, return 0
    * NOTE: this method is required for testing, you must not delete it
