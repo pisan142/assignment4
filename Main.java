@@ -15,22 +15,46 @@ public class Main {
       System.out.printf("%c ", curr);
     }
   }
-
-  // return the number of times c appears in the message
+  
+  /**
+   * This method returns the number of times c appears in the message.
+   * For example, if message = "abcbcbc", and c = 'b', then the method should return 3
+   * If no c character appears in the message, return 0
+   * NOTE: this method is required for testing, you must not delete it
+   */
   public static int countChar(String message, char c) {
+    //TODO
     return 0;
   }
 
-  // given a String,
-  // checks how many times each letter appears and prints it
+  /**
+   * This method checks how many times each letter appears in the given message and prints it.
+   * For example, if message = "abcbcbc", then the method should print out (output doesn't include "* "):
+   * a: 1
+   * b: 3
+   * c: 3
+   * NOTE: this method is required for testing, you must not delete it
+   */
   public static void analyzeLine(String message) {
+    //TODO
   }
 
-  // gets input from the user, calls analyzeLine
+  // This method gets inputs from the user, calls analyzeLine.
+  /**
+   * This methods get inputs from user and calls analyzeLine()
+   * It keeps asking for inputs until user enter "stop"
+   * When user enters "stop", the method will end with "All done!"
+   */
   public static void textAnalysis() {
-
+    //TODO
+    System.out.print("Enter a line (use stop to end): ");
+    //TODO
+    System.out.println("All done!");
   }
-
+  
+  /**
+   * You can edit the main() method as you wish.
+   */
   public static void main(String[] args) {
     textAnalysis();
   }
