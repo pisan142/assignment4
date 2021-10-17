@@ -1,11 +1,11 @@
 
 /**
- * Write a description of class TextAnalysis here.
+ * Write a description of class Main here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class TextAnalysis {
+public class Main {
 
   /**
    * Provided as an example, should not need it.
